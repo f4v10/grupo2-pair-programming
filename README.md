@@ -9,9 +9,6 @@ This is a platform that allows users to catch up on their favorite TV shows. Use
 ### Features
 
 - CRUD
-- Internationalization
-- Pagination
-- Routing
 
 ### Technologies
 
